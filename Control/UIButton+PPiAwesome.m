@@ -37,7 +37,7 @@ static char separationKey;
         [self setIsAwesome:YES];
 
         [self setButtonText:text];
-        [self setButtonIcon:icon];
+        //[self setButtonIcon:icon];
         [self setTextAttributes:attributes forUIControlState:UIControlStateNormal];
         [self setIconPosition:position];
     }
